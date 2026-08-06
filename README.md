@@ -45,11 +45,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="www.linkedin.com/in/kaif-sheikh-b23133427" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:kaif.sheikh.cg@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 </p>
