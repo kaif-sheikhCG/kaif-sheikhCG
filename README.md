@@ -44,16 +44,13 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="www.linkedin.com/in/kaif-sheikh-b23133427" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+💼 LinkedIn
 
-<a href="mailto:kaif.sheikh.cg@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
+🔗 www.linkedin.com/in/kaif-sheikh-b23133427
 
+📧 Email
+
+📧kaif.sheikh.cg@gmailcom
 ---
 
 ## 🚀 Current Goals
