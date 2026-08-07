@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaif Sheikh</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Kaif+Sheikh;B.Tech+1st+Year+Student;Future+Software+Developer" />
+</h1>
 <h3 align="center">Computer Science Engineering Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
