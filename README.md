@@ -85,6 +85,16 @@
 
 ---
 
+---
+
+## 📊 Daily Contribution Activity
+
+<p align="center">
+<img alt="Daily contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-sheikhCG&theme=github-compact&hide_border=true&area=true&radius=6" />
+</p>
+
+<p align="center"><sub>Darker green = more commits that day · Lighter green = less activity</sub></p>
+
 ## 🌐 Connect With Me
 
 <p align="center">
