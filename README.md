@@ -85,15 +85,14 @@
 
 ---
 
----
 
-## 📊 Daily Contribution Activity
+## 📅 Contribution Calendar
 
 <p align="center">
-<img alt="Daily contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kaif-sheikhCG&theme=github-compact&hide_border=true&area=true&radius=6" />
+<img alt="Contribution calendar" src="https://ghchart.rshah.org/39d353/kaif-sheikhCG" />
 </p>
 
-<p align="center"><sub>Darker green = more commits that day · Lighter green = less activity</sub></p>
+<p align="center"><sub>Each square is a day. Darker green means more commits that day.</sub></p>
 
 ## 🌐 Connect With Me
 
